@@ -1,0 +1,11 @@
+node_modules/
+build/
+dist/
+.cache/
+playwright-report/
+test-results/
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
